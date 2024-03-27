@@ -1,5 +1,5 @@
 
-# Project Title: Nextcloud User Enumeration OSINT - Proof of Concept
+# Nextcloud User Enumeration OSINT - Proof of Concept
 
 ## Overview
 This repository contains a proof of concept (PoC) for Brute Force Enumeration OSINT tested on  Nextcloud/OwnCloud instances. This project is designed for educational purposes to demonstrate how a brute force enumeration attack can be executed to uncover sensitive information. It should be used responsibly and only in environments where you have explicit permission to test.
